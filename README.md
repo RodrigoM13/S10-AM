@@ -2,6 +2,7 @@
 
 Esta es una aplicación Android desarrollada en **Kotlin** que permite a los usuarios registrarse, iniciar sesión y gestionar una lista personalizada de videojuegos. Utiliza **Firebase Authentication** para el acceso de usuarios y **Firebase Realtime Database** para almacenar los datos de los juegos.
 
+---
 
 ## 🚀 Funcionalidades
 
@@ -11,6 +12,7 @@ Esta es una aplicación Android desarrollada en **Kotlin** que permite a los usu
 - 📋 Ver lista de juegos agregados por el usuario autenticado.
 - 🌐 Integración con Firebase (Auth y Realtime Database).
 
+---
 
 ## 🧪 Tecnologías utilizadas
 
@@ -20,6 +22,7 @@ Esta es una aplicación Android desarrollada en **Kotlin** que permite a los usu
 - Firebase Realtime Database
 - Material Components
 
+---
 
 ## 📱 Pantallas principales
 
@@ -28,5 +31,19 @@ Esta es una aplicación Android desarrollada en **Kotlin** que permite a los usu
 - **AddGameActivity:** Formulario para agregar un nuevo videojuego.
 - **GamesListActivity:** Lista de juegos almacenados por el usuario actual.
 
-A continuación se mostrará unas imágenes de su funcionamiento:
+---
+
+## 🖼️ Capturas de pantalla
+
+### 🔐 Login  
+<img src="screenshots/Login.png" width="300"/>
+
+### 🧭 Pantalla Principal  
+<img src="screenshots/Main.png" width="300"/>
+
+### 📝 Agregar Juego  
+<img src="screenshots/Register_Game.png" width="300"/>
+
+### 📋 Lista de Juegos  
+<img src="screenshots/List_Game.png" width="300"/>
 
